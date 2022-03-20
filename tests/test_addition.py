@@ -3,7 +3,7 @@ import pytest
 
 
 def test_add():
-    result = add(3, 4)
+    result = add(5, 4)
     assert result == 7
 
 
